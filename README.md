@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Aman Thakur  
+# Hi, I'm Aman Thakur  
 
-💻 **Full-Stack Web Developer (MERN)** | 🎓 B.Tech in Electronics & Communication (2nd Year)  
+ **Full-Stack Web Developer (MERN)** | B.Tech in Electronics & Communication (2nd Year)  
 
-🌟 Passionate about building modern web applications and solving real-world problems with clean, scalable code.  
-
----
-
-## 🚀 About Me
-- 🔧 Skilled in **JavaScript, React, Node.js, Express, MongoDB**  
-- 🎨 Comfortable with **Tailwind CSS & Bootstrap** for frontend styling  
-- 🌱 Currently learning **Backend Optimization**  
-- 🎯 Goal: To grow as a **Full-Stack Developer** and contribute to impactful projects  
+Passionate about building modern web applications and solving real-world problems with clean, scalable code.  
 
 ---
 
-## 🛠 Tech Stack  
+## About Me
+- Skilled in **JavaScript, React, Node.js, Express, MongoDB**  
+- Comfortable with **Tailwind CSS & Bootstrap** for frontend styling  
+- Currently learning **Backend Optimization**  
+- Goal: To grow as a **Full-Stack Developer** and contribute to impactful projects  
+
+---
+
+## Tech Stack  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -28,37 +28,37 @@
 
 ---
 
-## 📂 Featured Projects  
+## Featured Projects  
 
-### 🔹 [Wanderlust]
+### [Wanderlust]
 A travel accommodation booking platform (MERN stack).  
-- 🏡 Add & manage properties  
-- 🔑 User authentication (JWT)  
-- 💳 Booking system  
-- 📍 Location-based search  
-👉 [GitHub Repo](https://github.com/Aman99039/Wanderlust.git)  
+- Add & manage properties  
+- User authentication (JWT)  
+- Booking system  
+- Location-based search  
+[GitHub Repo](https://github.com/Aman99039/Wanderlust.git)  
 
 ---
 
-### 🔹 [Task-Ravionics]  
+### [Task-Ravionics]  
 A task management application with enhanced functionality.  
-- 📌 Add, edit, delete tasks  
-- ✅ Track task completion  
-- 📊 Organized and efficient task workflow  
-👉 [GitHub Repo](https://github.com/Aman99039/Task-Ravionics.git)  
+- Add, edit, delete tasks  
+- Track task completion  
+- Organized and efficient task workflow  
+[GitHub Repo](https://github.com/Aman99039/Task-Ravionics.git)  
 
 ---
 
-### 🔹 [CareConnect]  
+### [CareConnect]  
 A healthcare appointment and wellness platform.  
-- 👩‍⚕️ Doctor-patient appointment booking  
-- 💊 Symptom checker with AI assistance  
-- 📄 Digital reports & medical history tracking  
-👉 [GitHub Repo](https://github.com/Aman99039/Care-Connect.git)  
+- Doctor-patient appointment booking  
+- Symptom checker with AI assistance  
+- Digital reports & medical history tracking  
+[GitHub Repo](https://github.com/Aman99039/Care-Connect.git)  
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman99039&show_icons=true&theme=tokyonight)  
 
@@ -66,11 +66,11 @@ A healthcare appointment and wellness platform.
 
 ---
 
-## 📫 Connect With Me  
-- 📧 Email: [at66136413@gmail.com](mailto:at66136413@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/aman-thakur](https://www.linkedin.com/in/aman-thakur-aa7a05304/)  
-- 📂 Portfolio: [GitHub Profile](https://github.com/Aman99039)  
+## Connect With Me  
+- Email: [at66136413@gmail.com](mailto:at66136413@gmail.com)  
+- LinkedIn: [linkedin.com/in/aman-thakur](https://www.linkedin.com/in/aman-thakur-aa7a05304/)  
+- Portfolio: [GitHub Profile](https://github.com/Aman99039)  
 
 ---
 
-⭐ *Fun fact: I love building projects that make life simpler and more efficient 🚀*  
+*Fun fact: I love building projects that make life simpler and more efficient*  
