@@ -70,7 +70,3 @@ A healthcare appointment and wellness platform.
 - Email: [at66136413@gmail.com](mailto:at66136413@gmail.com)  
 - LinkedIn: [linkedin.com/in/aman-thakur](https://www.linkedin.com/in/aman-thakur-aa7a05304/)  
 - Portfolio: [GitHub Profile](https://github.com/Aman99039)  
-
----
-
-*Fun fact: I love building projects that make life simpler and more efficient*  
