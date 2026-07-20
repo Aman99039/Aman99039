@@ -69,4 +69,3 @@ A healthcare appointment and wellness platform.
 ## Connect With Me  
 - Email: [at66136413@gmail.com](mailto:at66136413@gmail.com)  
 - LinkedIn: [linkedin.com/in/aman-thakur](https://www.linkedin.com/in/aman-thakur-aa7a05304/)  
-- Portfolio: [GitHub Profile](https://github.com/Aman99039)  
