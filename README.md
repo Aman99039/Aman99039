@@ -40,15 +40,6 @@ A travel accommodation booking platform (MERN stack).
 
 ---
 
-### [Task-Ravionics]  
-A task management application with enhanced functionality.  
-- Add, edit, delete tasks  
-- Track task completion  
-- Organized and efficient task workflow  
-[GitHub Repo](https://github.com/Aman99039/Task-Ravionics.git)  
-
----
-
 ### [CareConnect]  
 A healthcare appointment and wellness platform.  
 - Doctor-patient appointment booking  
